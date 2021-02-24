@@ -70,20 +70,20 @@ The man behind the [NECjAR](https://necjar.com).
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Kadae/Anna/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NECjAR/ANNA/issues) for a list of proposed features (and known issues).
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/Anna.svg?style=for-the-badge
-[contributors-url]: https://github.com/NECjAR/Anna/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/NECjAR/Anna.svg?style=for-the-badge
-[forks-url]: https://github.com/NECjAR/Anna/network/members
-[stars-shield]: https://img.shields.io/github/stars/NECjAR/Anna.svg?style=for-the-badge
-[stars-url]: https://github.com/NECjAR/Anna/stargazers
-[issues-shield]: https://img.shields.io/github/issues/NECjAR/Anna.svg?style=for-the-badge
-[issues-url]: https://github.com/NECjAR/Anna/issues
-[license-shield]: https://img.shields.io/github/license/NECjAR/Anna.svg?style=for-the-badge
-[license-url]: https://github.com/NECjAR/Anna/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/NECjAR/ANNA.svg?style=for-the-badge
+[contributors-url]: https://github.com/NECjAR/ANNA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/NECjAR/ANNA.svg?style=for-the-badge
+[forks-url]: https://github.com/NECjAR/ANNA/network/members
+[stars-shield]: https://img.shields.io/github/stars/NECjAR/ANNA.svg?style=for-the-badge
+[stars-url]: https://github.com/NECjAR/ANNA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/NECjAR/ANNA.svg?style=for-the-badge
+[issues-url]: https://github.com/NECjAR/ANNA/issues
+[license-shield]: https://img.shields.io/github/license/NECjAR/ANNA.svg?style=for-the-badge
+[license-url]: https://github.com/NECjAR/ANNA/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Kadae
 [necjar]: https://necjar.com
