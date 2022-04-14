@@ -53,7 +53,6 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 * 2021.2.22
     * CHANGE: Anna supports quests, stocks, fighting
-    * CHANGE: Anna gets fucked better <3
     * FIX: Slash commands for 'rock-paper-scissors'
 * 2021.1.1
     * ADD: Add `fuck()`
