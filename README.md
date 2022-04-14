@@ -27,8 +27,7 @@ See www.necjar.com/anna for details.
 
 ## Contributing
 
-Project source code is not public. This is repository for Issues!
-
+This repository serves as a place for bug reports, feature requests, and general discussion.
 
 ## Installation
 
