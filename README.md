@@ -51,15 +51,13 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 ## Release History
 
-* 2021.2.22
-    * CHANGE: Anna supports quests, stocks, fighting
-    * FIX: Slash commands for 'rock-paper-scissors'
+* See [Kadae.vivaldi.net](https://kadae.vivaldi.net) for updates history
 * 2011.11.11
     * ADD: Hello
 
 ## Meta
 
-Airat Asadullin – [@Kadae](https://twitter.com/Kadae)
+Kadae – [@Kadae](https://twitter.com/Kadae)
 
 The man behind the [NECjAR](https://necjar.com).
 
