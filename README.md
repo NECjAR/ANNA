@@ -15,7 +15,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Anna
-> Artificial Neural Network Android.
+> Artificial Neural Network Android. Anna is an AI. Anna is a Bot. Anna is a robot. Anna is an Android. Anna is a companion. Anna is a human. Anna is a friend.
+> Anna is an Artificial Intelligence in NECjAR universe and projects, and Bot for Telegram. See [@AnnaBot](https://t.me/AnnaBot) in Telegram.
 
 See www.necjar.com/anna for details.
 
@@ -31,12 +32,6 @@ This repository serves as a place for bug reports, feature requests, and general
 
 ## Installation
 
-OS X & Linux:
-
-```
-npm go fuck yourself
-```
-
 Windows:
 
 ```
@@ -51,7 +46,7 @@ _For more examples and usage, please refer to the [Wiki](https://wiki.necjar.com
 
 ## Release History
 
-* See [Kadae.vivaldi.net](https://kadae.vivaldi.net) for updates history
+* See [t.me/NECjAR](https://t.me/NECjAR) for updates history
 * 2011.11.11
     * ADD: Hello
 
