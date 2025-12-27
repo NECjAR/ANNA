@@ -22,7 +22,7 @@ See www.necjar.com/anna for details.
 
 <p align="center">
   <a href="https://necjar.com/anna">
-    <img src="https://necjar.com/j/materials/images/projects/anna/Anna-1920x883.jpg" alt="Anna" width="100%" height="auto" />
+    <img src="https://necjar.com/images/projects/anna/Anna-1920x883.jpg" alt="Anna" width="100%" height="auto" />
   </a>
 </p>
 
