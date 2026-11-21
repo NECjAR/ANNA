@@ -18,7 +18,7 @@
 > Artificial Neural Network Android. Anna is an AI. Anna is a Bot. Anna is a robot. Anna is an Android. Anna is a companion. Anna is a human. Anna is a friend.
 > Anna is an Artificial Intelligence in NECjAR universe and projects, and Bot for Telegram. See [@AnnaBot](https://t.me/AnnaBot) in Telegram.
 
-See necjar.com/anna for details.
+See [necjar.com/anna](https://necjar.com/anna) for details.
 
 <p align="center">
   <a href="https://necjar.com/anna">
